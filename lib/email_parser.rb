@@ -5,9 +5,9 @@
 
 class EmailParser
   attr_accessor :
-  
+
   @@all = []
-  
+
   def parse
 
   end
